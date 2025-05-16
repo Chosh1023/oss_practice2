@@ -1,5 +1,5 @@
 streamlit==1.23.1
-pillow==9.5.0  
+pillow==9.5.0 --only-binary :all:
 altair==5.0.1
 attrs==24.2.0
 blinker==1.6.3
