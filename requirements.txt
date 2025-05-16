@@ -1,9 +1,2 @@
 streamlit==1.23.1
-altair==5.0.1
-pandas==2.2.2
-numpy>=1.23
-protobuf==4.24.4
-pydeck==0.8.1b1
-requests==2.31.0
-toml==0.10.2
-watchdog==3.0.0
+pillow==9.5.0
